@@ -46,7 +46,7 @@ while (true) {
 
     let repetir = prompt("Gostaria registrar outra pessoa? S/N ")
 
-    if ('N' == repetir) {
+    if ('n' == repetir) {
         break;
     }
 }
